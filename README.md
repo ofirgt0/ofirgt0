@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ofir ginat</h1>
+<h1 align="center">Hi 👋, I'm  Ofir Ginat</h1>
 <h3 align="center">A passionate full-stack developer from Israel</h3>
 
 - 🔭 I’m currently working on **system for small businesses**
