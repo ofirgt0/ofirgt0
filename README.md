@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm ofir ginat</h1>
 <h3 align="center">A passionate full-stack developer from Israel</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ofirgt0" alt="ofirgt0" /></a> </p>
-
 - 🔭 I’m currently working on **system for small businesses**
 
 - 🌱 I’m currently learning **flutter, nodeJS**
